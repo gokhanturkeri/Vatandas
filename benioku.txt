@@ -1,0 +1,2 @@
+Programýn isim alma kapasitesi 15000 olarak belirlendi
+RastgeleKisi.c line 31,32,36,37,124,125,129,130 'da belirlenilen 15000 deðerlerini deðiþtirip kapasitesini arattýrýp azaltabilirsiniz.
